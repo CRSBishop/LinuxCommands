@@ -3,4 +3,3 @@ Nothing of mine is going to be of any use.
 
 # LinuxCommands
 Config files for my GitHub profile.
-
