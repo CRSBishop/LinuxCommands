@@ -8,4 +8,4 @@ docker run \
         -v openhab_userdata:/openhab/userdata \
         -d \
         --restart=always \
-        openhab/openhab:3.3.0
+        openhab/openhab:latest
