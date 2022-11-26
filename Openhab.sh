@@ -7,8 +7,8 @@ docker run \
         -v /opt/openhab/userdata:/openhab/userdata \
         -v /opt/openhab/addons:/openhab/addons \
         -d \
-        -e USER_ID=1000 \
-        -e GROUP_ID=9001 \
+        -e USER_ID=999 \
+        -e GROUP_ID=999 \
         -e CRYPTO_POLICY=unlimited \
         --restart=always \
         openhab/openhab
