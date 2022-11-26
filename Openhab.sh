@@ -11,4 +11,4 @@ docker run \
         -e GROUP_ID=9001 \
         -e CRYPTO_POLICY=unlimited \
         --restart=always \
-        openhab/openhab:latest
+        openhab/openhab
